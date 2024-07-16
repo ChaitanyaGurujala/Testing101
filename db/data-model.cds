@@ -3,7 +3,7 @@ using {
   managed,
   sap,
   cuid
-} from '@sap/cds/common';
+} from '@sap/cds/common'; // chaitanya g
 
 namespace sap.capire.bookshop;
 
